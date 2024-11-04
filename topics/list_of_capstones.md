@@ -9,7 +9,7 @@ your name | project name | has data | has SME
 | - Zachary Fry | UFOs | Yes (CSV) | Me lol
 | - Sam | outgassing of volcanoes | working on getting data | finding SME |
 | - Mohamed El hamdani |  Starbucks Retail Operations       |   not ready     | yes |
-| - 
+| - Minerva | So many things | Not available for another 30 to 90 days | Only if the data were to be made available this week
 | - 
 | - 
 | - 

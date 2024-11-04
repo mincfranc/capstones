@@ -1,9 +1,4 @@
 # List of capstone ideas:
-your name | project name | has data | has SME
-| - | - | - | - |
-| - 
-| - 
-| - 
-| - 
-| - 
+Mel | Xenophobia | clean xls files with doc file on data transformations | Colleague PJW
+
 

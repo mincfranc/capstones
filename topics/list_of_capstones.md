@@ -5,6 +5,7 @@ your name | project name | has data | has SME
 | - Wilking| Security Driven by Data | Multiple datasets | Yes|
 | Anna Lovato | Profit Center Performance | In Transit | Yes
 | Joe Robak | Bar Rescue | Yes | Yes? |
+| James Gumtau | Favorite Character | Collecting | not yet |
 | - 
 | - 
 | - 

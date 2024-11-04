@@ -1,3 +1,9 @@
 # List of capstone ideas:
-- first idea
-- 
+your name | project name | has data | has SME
+| - | - | - | - |
+| - 
+| - 
+| - 
+| - 
+| - 
+

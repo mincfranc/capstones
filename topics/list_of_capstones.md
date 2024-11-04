@@ -6,6 +6,7 @@ your name | project name | has data | has SME
 | Anna Lovato | Profit Center Performance | In Transit | Yes
 | Joe Robak | Bar Rescue | Yes | Yes? |
 | James Gumtau | Favorite Character | Collecting | not yet |
+| - Zachary Fry | UFOs | Yes (CSV) | Me lol
 | - 
 | - 
 | - 

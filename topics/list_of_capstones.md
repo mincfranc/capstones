@@ -9,6 +9,9 @@ your name | project name | has data | has SME
 | - Zachary Fry | UFOs | Yes (CSV) | Me lol
 | - Sam | outgassing of volcanoes | working on getting data | finding SME |
 | - Mohamed El hamdani |  Starbucks Retail Operations       |   not ready     | yes |
+| Mel | Xenophobia | clean xls files with doc file 4on data transformations | Colleague PJW
+| Mel | Spider Behavior | xls & Systat that can be csv | Self & Colleagues
+| Mel | Feritility, Life Hisotry & Health Cues | xls & Systat | self
 | - 
 | - 
 | - 

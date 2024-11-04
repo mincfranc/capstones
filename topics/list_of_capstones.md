@@ -7,6 +7,7 @@ your name | project name | has data | has SME
 | Joe Robak | Bar Rescue | Yes | Yes? |
 | James Gumtau | Favorite Character | Collecting | not yet |
 | - Zachary Fry | UFOs | Yes (CSV) | Me lol
+| - Sam | outgassing of volcanoes | working on getting data | finding SME |
 | - 
 | - 
 | - 
